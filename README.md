@@ -7,7 +7,7 @@
 <div style="display: inline_block">
  <h2> Formação Acadêmica 🎓 </h2>
  
- 📌 Cursando Tecnólogo em Segurança da Informação - Faculdade Imapacta (conclusão em 2024)
+ 📌 Cursando Tecnólogo em Segurança da Informação - Faculdade Impacta (conclusão em 2024)
  
 </div>
 
